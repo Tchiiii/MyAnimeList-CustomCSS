@@ -3,7 +3,7 @@
 \*---------------------BY-TCHIII-*/
 a.status-button.dropped{
   text-indent: -9999px;
-  background-image:url("https://raw.githubusercontent.com/Tchiiii/MyAnimeList-CustomCSS/master/img/dropped.png");
+  background-image:url("https://raw.githubusercontent.com/Tchiiii/MyAnimeList-CustomCSS/master/img/none.png");
   width:134px;
   transition: background-image 0.25s;
 }

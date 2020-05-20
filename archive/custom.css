@@ -34,13 +34,13 @@ body { --name: "Tchii"; }
 \*---------------------BY-TCHIII-*/
 a.status-button.dropped{
   text-indent: -9999px;
-  background-image:url("https://zupimages.net/up/20/21/dxqy.png");
+  background-image:url("https://raw.githubusercontent.com/Tchiiii/MyAnimeList-CustomCSS/master/img/dropped.png");
   width:134px;
   transition: background-image 0.25s;
 }
 a.status-button.dropped:hover{
-  background-image:url("https://zupimages.net/up/20/21/k17v.png");
+  background-image:url("https://raw.githubusercontent.com/Tchiiii/MyAnimeList-CustomCSS/master/img/dropped-hover.png");
 }
 a.status-button.dropped.on{
-  background-image:url("https://zupimages.net/up/20/21/p3v4.png");
+  background-image:url("https://raw.githubusercontent.com/Tchiiii/MyAnimeList-CustomCSS/master/img/dropped-on.png");
 }

@@ -1,0 +1,15 @@
+/*-------------------------------*\
+|Rename On Hold to Watching Airing|
+\*---------------------BY-TCHIII-*/
+a.status-button.onhold{
+  text-indent: -9999px;
+  background-image:url("https://raw.githubusercontent.com/Tchiiii/MyAnimeList-CustomCSS/master/img/none.png");
+  width:134px;
+  transition: background-image 0.25s;
+}
+a.status-button.onhold:hover{
+  background-image:url("https://raw.githubusercontent.com/Tchiiii/MyAnimeList-CustomCSS/master/img/onhold-hover.png");
+}
+a.status-button.onhold.on{
+  background-image:url("https://raw.githubusercontent.com/Tchiiii/MyAnimeList-CustomCSS/master/img/onhold-on.png");
+}
