@@ -3,13 +3,13 @@
 \*---------------------BY-TCHIII-*/
 a.status-button.dropped{
   text-indent: -9999px;
-  background-image:url("img/dropped.png");
+  background-image:url("master/img/dropped.png");
   width:134px;
   transition: background-image 0.25s;
 }
 a.status-button.dropped:hover{
-  background-image:url("img/droped-hover.png");
+  background-image:url("master/img/droped-hover.png");
 }
 a.status-button.dropped.on{
-  background-image:url("img/dropped-on.png");
+  background-image:url("master/img/dropped-on.png");
 }
