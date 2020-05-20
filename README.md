@@ -13,4 +13,10 @@
    you can paste the content of this:
    https://github.com/Tchiiii/MyAnimeList-CustomCSS/blob/master/onhold-to-airing.css
    
-You can also change the text in the custom button, but you need to edit the template.psd in the "img" folder and change the size of all pictures and the "width" on the .css
+You can also change the text in the custom button, but you need to edit:
+- In the "img/template.psd", change the pictures size(do not change the height, only the width) and save them into .png pictures
+- Change the "width" in the .css script into the width size of the .png pictures
+
+You can also need:
+- Photoshop
+- Oswald font (none & hover => Medium | on => Bold)
