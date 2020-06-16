@@ -1,0 +1,16 @@
+/*-------------------------------*\
+|Rename Dropped to Watching Airing|
+\*---------------------BY-TCHIII-*/
+a.status-button.dropped{
+  text-indent: -9999px;
+  background-image:url("https://raw.githubusercontent.com/Tchiiii/MyAnimeList-CustomCSS/master/img/manga-none.png");
+  width:134px;
+  transition: background-image 0.25s;
+}
+a.status-button.dropped:hover{
+  background-image:url("https://raw.githubusercontent.com/Tchiiii/MyAnimeList-CustomCSS/master/img/manga-dropped-hover.png");
+}
+a.status-button.dropped.on{
+  background-image:url("https://raw.githubusercontent.com/Tchiiii/MyAnimeList-CustomCSS/master/img/manga-dropped-on.png");
+}
+/*------------------------E-N-D-*/
